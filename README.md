@@ -56,10 +56,10 @@ In manufacturing quality inspection, defect data is difficult to collect and lab
 **🖥 Demo:** Implemented real-time inference demo using Gradio (input → reconstruction → difference → heatmap → score visualization)
 
 **📝 Outcomes**
-- **Software**:
- *Hybrid reconstructive–discriminative framework for industrial surface anomaly detection*
-Unsupervised surface defect detection combining a LoRA-adapted MambaIRv2 restoration branch with a discriminative U-Net over input–reconstruction–residual channels, trained on synthetic anomalies.
-*Software copyright registration with the Korea Copyright Commission, in progress (2026).*
+- **Software:**
+  Hybrid reconstructive–discriminative framework for industrial surface anomaly detection:
+  Unsupervised surface defect detection combining a LoRA-adapted MambaIRv2 restoration branch with a discriminative U-Net over input–reconstruction–residual channels, trained on synthetic anomalies.
+  *Software copyright registration with the Korea Copyright Commission, in progress (2026).*
 - Patent application: MambaIRv2-AD 산업 표면 결함 탐지 프로그램 (예정)
 - **ACCV 2026** paper submission (planned)
 
