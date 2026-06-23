@@ -70,8 +70,7 @@ Unsupervised surface defect detection combining a LoRA-adapted MambaIRv2 restora
 *Patent application filed with the Korean Intellectual Property Office (KIPO) — in progress (2026)*
 
 ### 📄 Conference Paper
-**MambaIRv2-AD: Industrial Anomaly Detection via LoRA-Adapted Image Restoration and Discriminative Hybrid Framework**  
-*Submission to **ACCV 2026** — planned*
+ **MambaIRv2-AD: industrial anomaly detection based on a LoRA-adapted state space model** 2026 — planned
 
 ---
 
