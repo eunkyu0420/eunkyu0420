@@ -56,8 +56,8 @@ In manufacturing quality inspection, defect data is difficult to collect and lab
 **🖥 Demo:** Implemented real-time inference demo using Gradio (input → reconstruction → difference → heatmap → score visualization)
 
 **📝 Outcomes**
-- Software copyright registration (pending)
-- Patent application (pending)
+- Software: MambaIRv2-AD 산업 표면 결함 탐지 프로그램 (예정)
+- Patent application: MambaIRv2-AD 산업 표면 결함 탐지 프로그램 (예정)
 - **ACCV 2026** paper submission (planned)
 
 ---
