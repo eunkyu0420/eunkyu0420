@@ -64,7 +64,7 @@ In manufacturing quality inspection, defect data is difficult to collect and lab
 
 ## 📚 Research Paper Analysis List
 
-Papers reviewed and presented at the Smart Factory Convergence Dept., SKKU.
+Papers reviewed and presented.
 
 | Date | Paper | Venue | Type |
 |------|-------|-------|------|
