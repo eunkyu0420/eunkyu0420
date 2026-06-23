@@ -62,13 +62,13 @@ Currently studying at **Sungkyunkwan University**, with interests in **Data Anal
 
 ---
 
-## 📚 Paper Seminar Presentations
+## 📚 Research Paper Analysis List
 
-논문 세미나에서 발표한 타겟 논문 목록입니다. (Smart Factory Convergence Dept., SKKU)
+타겟 논문 목록입니다. (Smart Factory Convergence Dept., SKKU)
 
 | Date | Paper | Venue | Type |
 |------|-------|-------|------|
-| **2025.02** | Anomaly Detection via Reverse Distillation from One-Class Embedding — Hanqiu Deng, Xingyu Li | CVPR 2022 | 개인 발표 |
+| **2026.03** | Anomaly Detection via Reverse Distillation from One-Class Embedding — Hanqiu Deng, Xingyu Li | CVPR 2022 | 개인 발표 |
 | **2026.05** | Distilling DETR with Visual-Linguistic Knowledge for Open-Vocabulary Object Detection — Liangqi Li et al. | ICCV 2023 | 팀 발표 |
 
 ---
