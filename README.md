@@ -80,7 +80,7 @@ Papers reviewed and presented at the Smart Factory Convergence Dept., SKKU.
 
 | Date | Paper | Venue | Type |
 |------|-------|-------|------|
-| **2026.03** | Anomaly Detection via Reverse Distillation from One-Class Embedding — Hanqiu Deng, Xingyu Li | CVPR 2022 | Individual |
+| **2026.03** | Anomaly Detection via Reverse Distillation from One-Class Embedding — Hanqiu Deng, Xingyu Li | CVPR 2022  | Individual |
 | **2026.05** | Distilling DETR with Visual-Linguistic Knowledge for Open-Vocabulary Object Detection — Liangqi Li et al. | ICCV 2023 | Team |
 
 ---
