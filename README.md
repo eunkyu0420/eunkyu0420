@@ -65,9 +65,11 @@ Unsupervised surface defect detection combining a LoRA-adapted MambaIRv2 restora
 *Software copyright registration with the Korea Copyright Commission — in progress (2026)*
 
 ### 📋 Patent
-**Hybrid Reconstructive–Discriminative Framework for Industrial Surface Anomaly Detection**  
+**Industrial Surface Anomaly Detection Method and System Combining Pre-trained Restoration Model and Discriminative Neural Network**  
+*사전학습 복원 모델과 판별 신경망을 결합한 산업 표면 이상 탐지 방법 및 시스템*  
 Unsupervised surface defect detection combining a LoRA-adapted MambaIRv2 restoration branch with a discriminative U-Net over input–reconstruction–residual channels, trained on synthetic anomalies.  
-*Patent application filed with the Korean Intellectual Property Office (KIPO) — in progress (2026)*
+*Patent application filed with the Korean Intellectual Property Office (KIPO) — under review (2026)*
+
 
 ### 📄 Conference Paper
  **MambaIRv2-AD: industrial anomaly detection based on a LoRA-adapted state space model** 2026 — planned
