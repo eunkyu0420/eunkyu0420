@@ -61,7 +61,7 @@ In manufacturing quality inspection, defect data is difficult to collect and lab
 
 ### 💾 Software Copyright
 **Hybrid Reconstructive–Discriminative Framework for Industrial Surface Anomaly Detection**   
-*MambaIRv2-AD(맘바아이알브이투 에이디) 산업 표면 결함 탐지 프로그램*
+*MambaIRv2-AD(맘바아이알브이투 에이디) 산업 표면 결함 탐지 프로그램*  
 Unsupervised surface defect detection combining a LoRA-adapted MambaIRv2 restoration branch with a discriminative U-Net over input–reconstruction–residual channels, trained on synthetic anomalies.  
 *Software copyright registration with the Korea Copyright Commission — in progress (2026)*
 
